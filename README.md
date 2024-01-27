@@ -22,7 +22,7 @@ Screenshots <br>
 <br>
 <h3> Description:</h3> <br>
 
-In this project i built a multi-screen app for ordering cupcakes. This is made with a couple of forms and protocols. In this app users can order their daily and customized cup cakes from online. They can see how much to pay for each customized cakes. 
+In this project i built a multi-screen app for ordering cupcakes. This is made with a couple of forms and protocols. In this app users can order normal and customized cup cakes from online. They can see how much to pay for each customized cakes. 
 
 <br>
 <h3> What I Learned:</h3> <br>
